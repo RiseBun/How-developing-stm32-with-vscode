@@ -60,4 +60,4 @@ How-developing-stm32-with-vscode/
 └── README.md           # 项目说明文档（即本文件）
 ```
 
-> 💡 建议按 `how_it_works.md`→`how_to_install.md` → `how_to_use.md`的顺序阅读。
+> 💡 建议按 `how_it_works.md`→`how_to_install.md` → `how_to_use.md`的顺序阅读。1
